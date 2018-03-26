@@ -20,7 +20,8 @@
     "url": "none"
   },
   "dependencies": {
-    "alexa-sdk": "^1.0.10"
+    "alexa-sdk": "^1.0.10",
+    "npm": "^5.8.0"
   },
   "devDependencies": {
     "aws-lambda-mock-context": "3.0.1",

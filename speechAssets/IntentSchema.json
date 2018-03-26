@@ -3,6 +3,9 @@
     {
       "intent": "GetNewFactIntent"
     },
+    { "intent": "GetNewYearFactIntent"
+      
+    }
     {
       "intent": "AMAZON.HelpIntent"
     },
